@@ -6,7 +6,7 @@ h1{
     font-family: 'Poppins', sans-serif;
 }
 .name-highlight{
-    color:orange
+    color:purple;
 }
 .half-width{
     width: 40%;
@@ -16,5 +16,14 @@ h1{
 
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat ;
+
+}
+section{
+    height: 500px;
 }
