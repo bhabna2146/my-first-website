@@ -5,8 +5,16 @@ h1{
     font-size: 40px;
     font-family: 'Poppins', sans-serif;
 }
+h2{
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    color:blueviolet;
+}
+p{
+    color: dimgray;
+}
 .name-highlight{
-    color:purple;
+    color: blue;
 }
 .half-width{
     width: 40%;
@@ -26,4 +34,19 @@ h1{
 }
 section{
     height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightSalmon, Tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
